@@ -1,0 +1,9 @@
+C:\Users\gaus\documents\visual studio 2013\Projects\SampleEvaluation\SampleEvaluation\bin\Release\SampleEvaluation.exe.config
+C:\Users\gaus\documents\visual studio 2013\Projects\SampleEvaluation\SampleEvaluation\bin\Release\SampleEvaluation.exe
+C:\Users\gaus\documents\visual studio 2013\Projects\SampleEvaluation\SampleEvaluation\bin\Release\SampleEvaluation.pdb
+C:\Users\gaus\documents\visual studio 2013\Projects\SampleEvaluation\SampleEvaluation\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\gaus\documents\visual studio 2013\Projects\SampleEvaluation\SampleEvaluation\bin\Release\NLog.dll
+C:\Users\gaus\documents\visual studio 2013\Projects\SampleEvaluation\SampleEvaluation\bin\Release\NLog.xml
+C:\Users\gaus\documents\visual studio 2013\Projects\SampleEvaluation\SampleEvaluation\obj\Release\SampleEvaluation.csprojResolveAssemblyReference.cache
+C:\Users\gaus\documents\visual studio 2013\Projects\SampleEvaluation\SampleEvaluation\obj\Release\SampleEvaluation.exe
+C:\Users\gaus\documents\visual studio 2013\Projects\SampleEvaluation\SampleEvaluation\obj\Release\SampleEvaluation.pdb
