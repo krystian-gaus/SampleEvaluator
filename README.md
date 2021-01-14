@@ -1,3 +1,3 @@
 # SampleEvaluator
 
-The application was an exercise. It's about the automated evaluation of medical samples.
+This piece of code was a task I had to prepare for an job interview. It was created in the summer of 2017. It is about the automated evaluation of medical samples.
